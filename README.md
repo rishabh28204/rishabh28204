@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Rishabh Singh
 <br/>
-### 🧑‍🎓 I am pursuing B.Tech specilized in Information Technology from IET LKO
+
+## 🧑‍🎓 I am pursuing B.Tech specilized in Information Technology from IET LKO
 ### 👀 I’m interested in Competitive programing and Web Development
 ### 🌱 I’m currently learning Machine Learning and Exploring new Techs.
 ### 💞️ I’m looking to collaborate on Github
